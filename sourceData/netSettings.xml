@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<property key = "port" data = "43131"></property>
+	<property key = "address" data = "localhost"></property>>
+</config>
